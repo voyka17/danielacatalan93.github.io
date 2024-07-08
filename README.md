@@ -1,4 +1,4 @@
-GitHub Pages: danielacatalan93.github.io
+GitHub Pages: https://danielacatalan93.github.io
 
 Primer fork a un compañero: https://github.com/DanielaCatalan93/Curriculum.git
 
